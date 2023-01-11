@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/cities-list-react/static/css/main.073c9b0a.css",
-    "main.js": "/cities-list-react/static/js/main.8f9091cf.js",
+    "main.css": "/cities-list-react/static/css/main.e6c13ad2.css",
+    "main.js": "/cities-list-react/static/js/main.a6381b95.js",
     "static/js/787.db1b52d1.chunk.js": "/cities-list-react/static/js/787.db1b52d1.chunk.js",
     "index.html": "/cities-list-react/index.html",
-    "main.073c9b0a.css.map": "/cities-list-react/static/css/main.073c9b0a.css.map",
-    "main.8f9091cf.js.map": "/cities-list-react/static/js/main.8f9091cf.js.map",
+    "main.e6c13ad2.css.map": "/cities-list-react/static/css/main.e6c13ad2.css.map",
+    "main.a6381b95.js.map": "/cities-list-react/static/js/main.a6381b95.js.map",
     "787.db1b52d1.chunk.js.map": "/cities-list-react/static/js/787.db1b52d1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.8f9091cf.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a6381b95.js"
   ]
 }
